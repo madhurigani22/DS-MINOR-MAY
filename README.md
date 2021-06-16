@@ -1,2 +1,2 @@
 # DS-MINOR-MAY
-I have this project using SVM 
+I have done  this project using SVM alogorithm
